@@ -8,6 +8,6 @@ Uses OddsApi to scrap odds from different sports betting platforms and exploits 
 
 **Commands:**
 - setChannel
- - Will start sending arbitrage notifications in the channel you use the command in 
+    - Will start sending arbitrage notifications in the channel you use the command in 
 - stake [total stake]
- - Will reply the amount you need to stake for each outcome given the total amount you want to stake
+    - Will reply the amount you need to stake for each outcome given the total amount you want to stake
